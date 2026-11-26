@@ -1,0 +1,6 @@
+{
+  "name": "MarkazFlow",
+  "description": "Plateforme SaaS multi-tenant white-label de gestion pour centres de soutien scolaire (prototype frontend Mode Démo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
